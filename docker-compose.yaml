@@ -1,0 +1,11 @@
+version: "3.18"
+
+services:
+  projeto-sc-api:
+    image: postgres
+    ports:
+      - '5432:5432'
+    environment:
+      - POSTGRES_USERNAME=postgres
+      - POSTGRES_PASSWORD=docker
+      - POSTGRES_DATABASE=projeto-sc-api
