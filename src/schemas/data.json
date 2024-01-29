@@ -1,0 +1,387 @@
+[
+  {
+    "name": "coca cola",
+    "quantity": 98,
+    "categoryID": 5,
+    "imgURL": "https://io.convertiez.com.br/m/superpaguemenos/shop/products/images/14079/large/refrigerante-coca-cola-15l_18383.png",
+    "price": 12.00
+  },
+  {
+    "name": "coca cola zero",
+    "quantity": 54,
+    "categoryID": 5,
+    "imgURL": "https://cdn.awsli.com.br/2500x2500/1330/1330028/produto/98130281/7f9bf78baa.jpg",
+    "price": 12.00
+  },
+  {
+    "name": "suco de uva",
+    "quantity": 12,
+    "categoryID": 5,
+    "imgURL": "https://static.paodeacucar.com/img/uploads/1/386/666386.png",
+    "price": 8.00
+  },
+  {
+    "name": "suco de caju",
+    "quantity": 30,
+    "categoryID": 5,
+    "imgURL": "https://mundobrasileiro.de/wp-content/uploads/2021/03/suco-de-caju-dafruta-1.jpg",
+    "price": 8.00
+  },
+  {
+    "name": "suco de limão",
+    "quantity": 52,
+    "categoryID": 5,
+    "imgURL": "https://ibassets.com.br/ib.item.image.big/b-d01314ecc284428c958133be19f51b39.jpeg",
+    "price": 8.00
+  },
+  {
+    "name": "sprite",
+    "quantity": 18,
+    "categoryID": 5,
+    "imgURL": "https://outofhome.se/media/catalog/product/cache/30/image/17f82f742ffe127f42dca9de82fb58b1/9/0/90041647_original.jpg",
+    "price": 5.00
+  },
+  {
+    "name": "kuat",
+    "quantity": 24,
+    "categoryID": 5,
+    "imgURL": "https://loja.supermerclick.com.br/image/cache/catalog/produtos-integracao/004482-omie___kuat-1litro__conv-1000x1000.jpg",
+    "price": 5.00
+  },
+  {
+    "name": "guaraná antartica",
+    "quantity": 38,
+    "categoryID": 5,
+    "imgURL": "https://www.guaranaantarctica.com.br/sites/g/files/wnfebl5706/files/styles/webp/public/paragraphs/product_size/2021-05/2l%20%281%29.png",
+    "price": 6.00
+  },
+  {
+    "name": "pepsi",
+    "quantity": 44,
+    "categoryID": 5,
+    "imgURL": "https://s3-sa-east-1.amazonaws.com/rocky-2790b1b55c6f835a3de8629458121a7f/11f77c26ea3146ff69da56e639bb0797.png",
+    "price": 8.00
+  },
+  {
+    "name": "água",
+    "quantity": 26,
+    "categoryID": 5,
+    "imgURL": "https://http2.mlstatic.com/D_Q_NP_800831-MLU47587972258_092021-O.webp",
+    "price": 2.00
+  },
+  {
+    "name": "lata milho",
+    "quantity": 98,
+    "categoryID": 1,
+    "imgURL": "https://cdn.b4c.inf.br/storage/acouguebg/1000/milho-verde-quero-lata-170g-1638365268.jpg",
+    "price": 4
+  },
+  {
+    "name": "lata de ervilha",
+    "quantity": 54,
+    "categoryID": 1,
+    "imgURL": "https://ibassets.com.br/ib.item.image.large/l-202b4918e350460cb3e859778e2a20bc.jpeg",
+    "price": 4
+  },
+  {
+    "name": "sardinha",
+    "quantity": 12,
+    "categoryID": 1,
+    "imgURL": "https://static.paodeacucar.com/img/uploads/1/289/19919289.jpg",
+    "price": 8.00
+  },
+  {
+    "name": "salsicha",
+    "quantity": 30,
+    "categoryID": 1,
+    "imgURL": "https://io.convertiez.com.br/m/superpaguemenos/shop/products/images/25533/medium/salsicha-bordon-300g-lt-ao-molho_12932.jpg",
+    "price": 8.00
+  },
+  {
+    "name": "lata de pessego",
+    "quantity": 52,
+    "categoryID": 1,
+    "imgURL": "https://pxtonline.com.br/2021/2512-large_default/pessego-em-calda-metades-ole-lata-de-450g.jpg",
+    "price": 8.00
+  },
+  {
+    "name": "lata de milho e ervilha",
+    "quantity": 18,
+    "categoryID": 1,
+    "imgURL": "https://ibassets.com.br/ib.item.image.big/b-2dcfd5cddce24064bc1f131029b96443.jpeg",
+    "price": 7
+  },
+  {
+    "name": "azeite",
+    "quantity": 24,
+    "categoryID": 1,
+    "imgURL": "https://img.sitemercado.com.br/produtos/bd1a1201c24067911faec315454339ef4820504baae644b88bff8827336642fa_full.jpg",
+    "price": 13
+  },
+  {
+    "name": "carne enlatada",
+    "quantity": 38,
+    "categoryID": 1,
+    "imgURL": "https://mercantilnovaera.vtexassets.com/arquivos/ids/191134/Carne-Mista-em-Conserva-ANGLO-Tradicional-Sabor-Carne-Lata-320g.jpg",
+    "price": 25
+  },
+  {
+    "name": "molho de tomate",
+    "quantity": 44,
+    "categoryID": 1,
+    "imgURL": "https://cdn.shoppub.io/cdn-cgi/image/w=600,h=600,q=80,f=auto/beirario/media/uploads/produtos/foto/b973a4ba13823file.png",
+    "price": 6.50
+  },
+  {
+    "name": "papel higiênico",
+    "quantity": 98,
+    "categoryID": 2,
+    "imgURL": "https://bravidistribuidora.agilecdn.com.br/2205_1.jpg",
+    "price": 4.50
+  },
+  {
+    "name": "cotonete",
+    "quantity": 54,
+    "categoryID": 2,
+    "imgURL": "https://dentalpassaro.com.br/img/produtos/1704/3106/G/cotonete-aponete-apolo-1.jpg",
+    "price": 4
+  },
+  {
+    "name": "escova de dente",
+    "quantity": 12,
+    "categoryID": 2,
+    "imgURL": "https://images-americanas.b2w.io/produtos/01/00/img/27952/6/27952668_1GG.jpg",
+    "price": 8.00
+  },
+  {
+    "name": "pasta de dente",
+    "quantity": 30,
+    "categoryID": 2,
+    "imgURL": "https://i.zst.com.br/thumbs/12/2c/19/1953845152.jpg",
+    "price": 4
+  },
+  {
+    "name": "sabonete",
+    "quantity": 52,
+    "categoryID": 2,
+    "imgURL": "https://acdn.mitiendanube.com/stores/002/473/840/products/403275_11-3e2586f3ecddadfe5e16855466856011-1024-1024.png",
+    "price": 2.00
+  },
+  {
+    "name": "fio dental",
+    "quantity": 18,
+    "categoryID": 2,
+    "imgURL": "https://io.convertiez.com.br/m/drogal/shop/products/images/5748577/medium/fio-dental-encerado-colgate-50-metros_78562.jpg",
+    "price": 5.00
+  },
+  {
+    "name": "shampoo",
+    "quantity": 24,
+    "categoryID": 2,
+    "imgURL": "https://a-static.mlcdn.com.br/450x450/kit-elseve-hidra-hialuronico-shampoo-condicionador-200ml-l-oreal-paris/bellabeauty/12108289336/0c43e8620b087467ccbf8b9bb616e863.jpeg",
+    "price": 25.00
+  },
+  {
+    "name": "condicionador",
+    "quantity": 38,
+    "categoryID": 2,
+    "imgURL": "https://io.convertiez.com.br/m/dellaedelle/shop/products/images/31540/medium/bio-ex-mais-liso-condicio-350ml_5383.jpg",
+    "price": 15.00
+  },
+  {
+    "name": "sabonete íntimo",
+    "quantity": 44,
+    "categoryID": 2,
+    "imgURL": "https://drogariasp.vteximg.com.br/arquivos/ids/910485-1000-1000/194255---sabonete-intimo-nivea-natural-250ml-1.jpg",
+    "price": 35.00
+  },
+  {
+    "name": "frango",
+    "quantity": 98,
+    "categoryID": 3,
+    "imgURL": "https://images.tcdn.com.br/img/img_prod/825497/coxa_de_frango_congelada_rica_1200_1_df64f765904531674b860781997ed5b5_20230327153212.jpg",
+    "price": 35.00
+  },
+  {
+    "name": "linguica",
+    "quantity": 54,
+    "categoryID": 3,
+    "imgURL": "https://www.lar.ind.br/wp-content/uploads/2020/12/linguica-Toscana-25kg-Congelada.png",
+    "price": 20.00
+  },
+  {
+    "name": "carne de bife",
+    "quantity": 12,
+    "categoryID": 3,
+    "imgURL": "https://deskontao.agilecdn.com.br/4263_1.jpg",
+    "price": 25.00
+  },
+  {
+    "name": "coracão",
+    "quantity": 30,
+    "categoryID": 3,
+    "imgURL": "https://www.lar.ind.br/wp-content/uploads/2020/12/Bandeja-Congelada-Lar-Corac%CC%A7a%CC%83o-%E2%80%A2-Mockup-600g.png",
+    "price": 30.00
+  },
+  {
+    "name": "Hot Pocket",
+    "quantity": 52,
+    "categoryID": 3,
+    "imgURL": "https://ibassets.com.br/ib.item.image.large/l-26a151f6626b4e09ab418ae3583fd5bc.jpeg",
+    "price": 8.00
+  },
+  {
+    "name": "hamburguer",
+    "quantity": 18,
+    "categoryID": 3,
+    "imgURL": "https://gazeta-rs.com.br/wp-content/uploads/2022/12/hamburguer-congelado-71914773.jpg",
+    "price": 9.00
+  },
+  {
+    "name": "carne moída",
+    "quantity": 24,
+    "categoryID": 3,
+    "imgURL": "https://media.soujusto.com.br/products/6866_1.jpg",
+    "price": 15.00
+  },
+  {
+    "name": "batata frita",
+    "quantity": 38,
+    "categoryID": 3,
+    "imgURL": "https://d3gdr9n5lqb5z7.cloudfront.net/fotos/954964-06-09-2022-13-56-46-567.jpg",
+    "price": 12.00
+  },
+  {
+    "name": "pizza",
+    "quantity": 44,
+    "categoryID": 3,
+    "imgURL": "https://static.paodeacucar.com/img/uploads/1/952/657952.png",
+    "price": 14.00
+  },
+  {
+    "name": "tortinhas",
+    "quantity": 98,
+    "categoryID": 4,
+    "imgURL": "https://static.paodeacucar.com/img/uploads/1/473/16643473.jpg",
+    "price": 3.00
+  },
+  {
+    "name": "wafer bauducco",
+    "quantity": 54,
+    "categoryID": 4,
+    "imgURL": "https://m.media-amazon.com/images/I/61MYWrOt+7L.jpg",
+    "price": 4.00
+  },
+  {
+    "name": "wafer piraque",
+    "quantity": 12,
+    "categoryID": 4,
+    "imgURL": "https://piraque.com.br/wp-content/uploads/2020/11/Piraque-Wafer-Chocolate-160g.png",
+    "price": 4.50
+  },
+  {
+    "name": "wafer visconti",
+    "quantity": 30,
+    "categoryID": 4,
+    "imgURL": "https://ldcestas.com.br/wp-content/uploads/2022/09/bisc-wafer-visconti.jpg",
+    "price": 2.50
+  },
+  {
+    "name": "nescallball",
+    "quantity": 52,
+    "categoryID": 4,
+    "imgURL": "https://images-americanas.b2w.io/produtos/4813909060/imagens/cereal-chocolate-nescau-ball-75g-nestle/4813909060_1_large.jpg",
+    "price": 8.00
+  },
+  {
+    "name": "barra de chocolate",
+    "quantity": 18,
+    "categoryID": 4,
+    "imgURL": "https://cdn.awsli.com.br/600x700/1030/1030675/produto/41454067/7d8e6d58af.jpg",
+    "price": 7.00
+  },
+  {
+    "name": "fandangos",
+    "quantity": 24,
+    "categoryID": 4,
+    "imgURL": "https://m.media-amazon.com/images/I/61ukGrJI0nL._AC_UF1000,1000_QL80_.jpg",
+    "price": 4.00
+  },
+  {
+    "name": "cheetos",
+    "quantity": 38,
+    "categoryID": 4,
+    "imgURL": "https://static.paodeacucar.com/img/uploads/1/186/23494186.jpg",
+    "price": 4.00
+  },
+  {
+    "name": "doritos",
+    "quantity": 44,
+    "categoryID": 4,
+    "imgURL": "https://static.paodeacucar.com/img/uploads/1/758/23445758.jpg",
+    "price": 6.00
+  },
+  {
+    "name": "morango",
+    "quantity": 98,
+    "categoryID": 6,
+    "imgURL": "https://www.svicente.com.br/on/demandware.static/-/Sites-storefront-catalog-sv/default/dw5fb91c3a/Produtos/21890-7898918783015-morango%20bandeja%20250gr-flv-1.jpg",
+    "price": 12.00
+  },
+  {
+    "name": "maçã",
+    "quantity": 54,
+    "categoryID": 6,
+    "imgURL": "https://www.bistek.com.br/media/catalog/product/cache/3d8b1eb10e2235e6c16b8d8d169667e5/3/0/3031802.jpg",
+    "price": 12.00
+  },
+  {
+    "name": "banana",
+    "quantity": 12,
+    "categoryID": 6,
+    "imgURL": "https://hortifrutijardins.com.br/wp-content/uploads/2020/06/Banana-Nanica.png",
+    "price": 8.00
+  },
+  {
+    "name": "melão",
+    "quantity": 30,
+    "categoryID": 6,
+    "imgURL": "https://betelhortifruti.com.br/upload/produto/2020/10/1039/big/melao-rei.jpg",
+    "price": 8.00
+  },
+  {
+    "name": "melancia",
+    "quantity": 52,
+    "categoryID": 6,
+    "imgURL": "https://betelhortifruti.com.br/upload/produto/2020/9/1015/big/melancia.jpg",
+    "price": 8.00
+  },
+  {
+    "name": "kiwi",
+    "quantity": 18,
+    "categoryID": 6,
+    "imgURL": "https://ibassets.com.br/ib.item.image.big/b-f61454dcc0414817bd645ff0fb8e69d7.png",
+    "price": 5.00
+  },
+  {
+    "name": "caju",
+    "quantity": 24,
+    "categoryID": 6,
+    "imgURL": "https://acdn.mitiendanube.com/stores/001/254/392/products/frutas_hortifruti_hortifit_delivery_caju1-6e28d7cd2e1fc93e3a16922840699318-640-0.png",
+    "price": 5.00
+  },
+  {
+    "name": "uva",
+    "quantity": 38,
+    "categoryID": 6,
+    "imgURL": "https://www.hfbrasil.org.br/upload/galeria/0830407001624043778.jpg",
+    "price": 6.00
+  },
+  {
+    "name": "limão",
+    "quantity": 44,
+    "categoryID": 6,
+    "imgURL": "https://solpack.com.br/wp-content/uploads/2020/10/AAA6729.jpg",
+    "price": 8.00
+  }
+]

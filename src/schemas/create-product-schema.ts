@@ -1,11 +1,14 @@
 import { z } from 'zod'
 
-export const createProductSchema = z.object({
+export const productSchema = z.object({
   name: z.string(),
   quantity: z.coerce.number(),
-  category: z.string(),
-  imgURL: z.string(),
+  categoryID: z.number().positive(),
+  imgURL: z.string().url(),
   price: z.coerce.number(),
 })
 
-export type TCreateProductSchema = z.infer<typeof createProductSchema>
+export const createProductsSchema = z.array(productSchema)
+
+export type TProductSchema = z.infer<typeof productSchema>
+export type TCreateProductSchema = z.infer<typeof createProductsSchema>
